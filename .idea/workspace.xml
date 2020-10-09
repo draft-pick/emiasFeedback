@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c5517f3f-dff1-4b49-b9cc-961163a348e6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="809f5293-65a2-43aa-a8dd-d00ba8b4e5d3" />
+  <component name="ProjectId" id="1id6gFqCFBYNat40nb1EhXA6R1i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c5517f3f-dff1-4b49-b9cc-961163a348e6" name="Default Changelist" comment="" />
+      <created>1602225230765</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602225230765</updated>
+      <workItem from="1602225234195" duration="2176000" />
+      <workItem from="1602236139540" duration="287000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="437" key="Github.CreateGistDialog" timestamp="1602236189591">
+      <screen x="0" y="23" width="1920" height="976" />
+    </state>
+    <state x="778" y="437" key="Github.CreateGistDialog/0.23.1920.976/-1920.73.1920.1057@0.23.1920.976" timestamp="1602236189591" />
+    <state x="821" y="415" key="Github.ShareDialog" timestamp="1602236450610">
+      <screen x="0" y="23" width="1920" height="976" />
+    </state>
+    <state x="821" y="415" key="Github.ShareDialog/0.23.1920.976/-1920.73.1920.1057@0.23.1920.976" timestamp="1602236450610" />
+    <state x="718" y="223" key="Github.UntrackedFilesDialog" timestamp="1602236484512">
+      <screen x="0" y="23" width="1920" height="976" />
+    </state>
+    <state x="718" y="223" key="Github.UntrackedFilesDialog/0.23.1920.976/-1920.73.1920.1057@0.23.1920.976" timestamp="1602236484512" />
+  </component>
+</project>
