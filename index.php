@@ -1,4 +1,4 @@
-<?php require_once 'header.php'?>
+<?php require_once 'header.php'?> 
         <div class="col-4 mx-auto">
             <div class="card shadow-sm card-lift--hover text-center p-5">
                 <h2>КИС ЕМИАС Аптека</h2>
